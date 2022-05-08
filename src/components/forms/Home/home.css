@@ -1,0 +1,38 @@
+.userBlock {
+    border-radius: 15px;
+    box-sizing: border-box;
+    background-color: #464646;
+    padding: 20px;
+    width: 100%;
+    max-width: 350px;
+    margin: 100px auto;
+    display: table;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.welcome {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    text-shadow: 0px 5px 3px #0a0a0a;
+}
+
+.inputGroup {
+    display:flex;
+    justify-content: center;
+}
+
+
+.exit {
+    background-color: #fff;
+    border: 20;
+    border-radius: 3px;
+    color: red;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.exit:hover {
+    background-color: #f1f1f1;
+}
