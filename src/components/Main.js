@@ -3,7 +3,7 @@ import "./Main.css";
 import fire from "../config/fire";
 import Login from "./forms/LogIn/Login";
 import Register from "./forms/Register/Register";
-import Spinner from "../assets/loader.gif";
+import Spinner from "../loader/loader.gif";
 import Home from "./forms/Home/Home";
 
 export default class Main extends Component {
